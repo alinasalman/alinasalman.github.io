@@ -1,3 +1,6 @@
 title: Alina Salman
-#show_downloads: true
+description: A showcase of my technical projects, research, and career.
 theme: jekyll-theme-minimal
+
+# Logo (your picture)
+logo: "/assets/asm.jpg" 
