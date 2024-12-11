@@ -1,4 +1,4 @@
-# Alina Salman
+# Portfolio
 
 Data for strategic problem solving.
 
