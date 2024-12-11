@@ -1,6 +1,6 @@
 # Portfolio
 
-Data for strategic problem solving.
+Using data for strategic problem solving.
 
 
 ## Simulation & Complex Systems Modeling
